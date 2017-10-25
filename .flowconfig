@@ -4,7 +4,7 @@
 
 [libs]
 node_modules/iflow-jquery/index.js.flow
-node_modules/iflow-jquery/moment.js.flow
+node_modules/iflow-moment/index.js.flow
 [lints]
 
 [options]
