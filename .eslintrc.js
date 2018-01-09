@@ -32,6 +32,7 @@ module.exports = {
         'max-len': ['error', 170],
         quotes: ['error', 'single', { avoidEscape: true }],
         'func-names': ['error', 'never'],
+    	'comma-dangle': ['error', 'never'],
     },
 
     settings: {
