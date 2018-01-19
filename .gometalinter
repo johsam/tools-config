@@ -1,0 +1,3 @@
+{
+  "Exclude": ["exported (type|function|const) (\\w+) should have comment or be unexported"]
+}
