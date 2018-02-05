@@ -1,5 +1,8 @@
+[REPORTS]
+reports=no
+
 [MESSAGES CONTROL]
-disable = C0111,C0301,C0103
+disable = C0111,C0301,C0103,W0233
 
 [TYPECHECK]
-generated-members=IN_(O|C)*
+generated-members = IN_[OC].*
