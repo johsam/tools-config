@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "dependencies": {
-    "ajv": "^6.1.1",
+    "ajv": "^6.2.0",
     "babel-eslint": "^8.2.2",
     "coffeelint": "^2.1.0",
     "elm": "^0.18.0",
@@ -11,9 +11,9 @@
     "eslint-config-airbnb": "^16.1.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-extjs": "^0.0.3",
-    "eslint-plugin-flowtype": "^2.45.0",
+    "eslint-plugin-flowtype": "^2.46.1",
     "eslint-plugin-html": "^4.0.1",
-    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.7.0",
     "flow-bin": "^0.66.0",
@@ -22,6 +22,6 @@
     "iflow-moment": "^1.1.13",
     "js-beautify": "^1.7.5",
     "jshint": "^2.9.5",
-    "prettier": "^1.9.2"
+    "prettier": "^1.11.1"
   }
 }
